@@ -512,6 +512,6 @@
   ],
 
 
-"spider":"https://raw.fastgit.org/myfieewifi/iptv/main/jar/03.jar"
+"spider":"https://raw.fastgit.org/myfieewifi/iptv/main/jar/custom_spider.jar"
 
 }
