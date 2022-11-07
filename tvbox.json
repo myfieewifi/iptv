@@ -1,5 +1,5 @@
 {
-  "spider":"https://raw.fastgit.org/myfieewifi/iptv/main/jar/custom_spider.jar;md5;403FCD9EDC043E1E30C6601E2B460942",
+  "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;403FCD9EDC043E1E30C6601E2B460942",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [{
     "group": "redirect",
