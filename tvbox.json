@@ -1,6 +1,6 @@
 {
   "spider":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar",
-  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/raw.githubusercontent.com/myfieewifi/iptv/main/tv1.txt"]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/raw.githubusercontent.com/myfieewifi/iptv/main/tv1.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"]}]}],
   "wallpaper":"http://maoyingshi.cc/api.php",
   "sites":[
     {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
