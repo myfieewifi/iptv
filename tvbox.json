@@ -1,14 +1,26 @@
 {
   "spider":"https://ghproxy.com/raw.githubusercontent.com/myfieewifi/iptv/main/JAR/Yoursmile.jar",
   "wallpaper":"http://maoyingshi.cc/api.php",
-  "lives": [{
-    "group": "redirect",
-    "channels": [{
-        "name": "live",
-        "urls": ["proxy://do=live&type=txt&ext=https://ghproxy.com/raw.githubusercontent.com/myfieewifi/iptv/main/tv1.txt"]
-      }],
-    "epg":"http://epg.51zmt.top:8000/api/diyp/"
-  }],
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
+          ]
+        }
+      ],
+      "epg":"http://epg.51zmt.top:8000/api/diyp/"
+    }
+  ],
   "sites":[
     {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
