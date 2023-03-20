@@ -6,7 +6,8 @@
     "channels": [{
       "name": "live",
       "urls": ["proxy://do=live&type=txt&ext=https://ghproxy.com/raw.githubusercontent.com/myfieewifi/iptv/main/tv1.txt"]
-    }]
+    }],
+    "epg": "http://epg.51zmt.top:8000/api/diyp/"
   }],
   "sites":[
     {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
@@ -306,8 +307,6 @@
     {"key":"csp_appysv2_豆芽视频","name":"豆芽视频〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod"},
 
     {"key":"csp_app_小鸟动漫","name":"小鸟动漫〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
-
-
 
 
     {"key":"csp_XPath_yinfans","name":"音范丝4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/myfieewifi/iptv/main/XP/yinfans.json"},
