@@ -1,10 +1,10 @@
 {
-  "spider":"https://raw.iqiq.io/myfieewifi/iptv/main/JAR/fm.jar",
+  "spider":"https://raw.iqiq.io/myfieewifi/iptv/main/JAR/Yoursmile.jar",
   "wallpaper":"http://maoyingshi.cc/api.php",
   "lives": [{
       "name": "直播",
       "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "url": "https://raw.iqiq.io/myfieewifi/iptv/main/tv2.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }],
   "sites":[
