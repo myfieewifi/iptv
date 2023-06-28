@@ -4,7 +4,7 @@ import './crypto-js.js'
 import _ from './underscore-esm-min.js'
 
 let key = 'kunyu77';
-let url = 'http://api.kunyu77.com';
+let url = 'http://api.tyun77.cn';
 let agent = 'Dalvik/2.1.0 (Linux; U; Android 6.0; ZTE BA520 Build/MRA58K)';
 let deviceId = '';
 let timeOffset = 0;
