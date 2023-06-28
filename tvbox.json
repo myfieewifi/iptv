@@ -1,5 +1,5 @@
 {
-  "spider":"https://raw.iqiq.io/myfieewifi/iptv/main/JAR/Yoursmile.jar;md5;532527E8F0BCFA6FED5C6799846D3AD3",
+  "spider":"https://raw.iqiq.io/myfieewifi/iptv/main/JAR/fm.jar",
   "wallpaper":"http://maoyingshi.cc/api.php",
   "lives": [{
       "name": "直播",
@@ -22,7 +22,7 @@
 
     {"key":"AppTT","name":"图图影视〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://raw.iqiq.io/myfieewifi/iptv/main/JAR/cs.jar"},
 
-    {"key":"csp_77","name":"七七〔SP〕",",type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 
