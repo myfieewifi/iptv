@@ -1,5 +1,5 @@
 {
-"作者":"张弘",
+"作者":"孟云",
 "站名":"咕噜咕噜",
 "主页url":"https://w.996w.top/",
 "数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">",
@@ -23,7 +23,7 @@
 "主演":"主演：</span>&&</div>",
 "简介":"剧情：</span>&&</span>",
 "播放列表":"<a&&</a>",
-"播放标题":"<span>&&</span>", 
+"播放标题":"<span>&&</span>",
 "播放链接":"href=\"&&\"",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#竞技体育$5",
 "分类url":"https://w.996w.top/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",

@@ -1,5 +1,5 @@
 {
-"作者":"张弘",
+"作者":"孟云",
 "站名":"歪片星球",
 "主页url":"https://waipian12.com/",
 "二次截取":"class=\"module-items&&<div class=\"fixedGroup",
@@ -23,7 +23,7 @@
 "主演":"主演：</span>&&</div>",
 "简介":"module-info-introduction-content\">&&</div>",
 "播放列表":"<a&&</a>",
-"播放标题":"<span>&&</span>", 
+"播放标题":"<span>&&</span>",
 "播放链接":"href=\"&&\"",
 "分类":"电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#歪片库$waipian",
 "分类url":"https://waipian12.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
