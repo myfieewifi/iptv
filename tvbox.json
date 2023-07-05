@@ -515,12 +515,12 @@
       "type": 3,
       "url": "Demo"
     },
-
     {"name":"解析1",
       "type":1,
       "url":"http://43.143.107.57:417/api/?key=73259318e3d893e5b73fd87f20fbc2f7&url=",
       "ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],
-      "header":{"User-Agent":"Dart/2.14 (dart:io)"}}}
+      "header":{"User-Agent":"Dart/2.14 (dart:io)"}}
+    },
     {
       "name": "解析2",
       "type": 1,
