@@ -1,11 +1,19 @@
 {
-  "spider":"https://raw.iqiq.io/myfieewifi/iptv/main/JAR/Yoursmile.jar",
-  "wallpaper":"http://maoyingshi.cc/api.php",
-  "lives": [{
-      "name": "直播",
+  "spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+  "wallpaper":"https://picsum.photos/1080/",
+  "lives":[
+    {
+      "name": "live",
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/tvzb.txt",
       "type": 0,
-      "url": "https://raw.iqiq.io/myfieewifi/iptv/main/tv2.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    },
+    {"group":"redirect",
+      "channels":[{
+        "name":"redirect",
+        "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly91dWpzLm1sL2YvWW1wczcvcHJvLnR4dA=="]}]
     }],
   "sites":[
     {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
