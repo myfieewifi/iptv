@@ -1,6 +1,6 @@
 {
-  "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-  "wallpaper":"http://maoyingshi.cc/api.php",
+  "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;41C96D7A199819C4E6EB617EFFBE5CA4",
+  "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives":[
     {
       "name": "live",
@@ -9,11 +9,6 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    },
-    {"group":"redirect",
-      "channels":[{
-        "name":"redirect",
-        "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly91dWpzLm1sL2YvWW1wczcvcHJvLnR4dA=="]}]
     }],
   "sites":[
     {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
@@ -30,7 +25,7 @@
 
     {"key":"AppTT","name":"图图影视〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://raw.iqiq.io/myfieewifi/iptv/main/JAR/cs.jar"},
 
-    {"key":"","name":"七七〔SP〕","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 
