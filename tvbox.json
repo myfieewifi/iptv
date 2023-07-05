@@ -1,6 +1,6 @@
 {
   "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;41C96D7A199819C4E6EB617EFFBE5CA4",
-  "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "wallpaper":"http://maoyingshi.cc/api.php",
   "lives":[
     {
       "name": "live",
@@ -79,6 +79,7 @@
     {"key":"初中","name":"初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/初中课堂.json"},
     {"key":"高中","name":"高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"}
   ],
+
   "parses": [
     {"name":"Json聚合","type":3,"url":"Demo"},
     {"name":"Web聚合","type":3,"url":"Web"},
