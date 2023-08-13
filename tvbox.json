@@ -1,5 +1,5 @@
 {
- "spider":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/jar/Yoursmile.jar",
+ "spider":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/jar/Yoursmile.jar",
  "wallpaper":"http://maoyingshi.cc/api.php",
  "lives":[{
    "name":"直播",
@@ -10,15 +10,15 @@
   }],
 
  "sites":[
-    {"key":"js豆瓣1","name":"豆瓣","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/js/豆瓣.js","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"js豆瓣1","name":"豆瓣","type":3,"api":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/drpy2.min.js","ext":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/豆瓣.js","searchable":0,"quickSearch":0,"filterable":0},
     {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
     {"key":"Qtv","name":"腾讯视频","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"MGT","name":"芒果TV","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/js/爱奇艺.js"},
-    {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/js/优酷.js"},
-    {"key":"直播转点播","name":"直播汇聚","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/直播转点播.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/js/%e7%9b%b4%e6%92%ad.js"},
-    {"key":"csp_XYQHiker_‍dyx","name":" 磁力4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/xb/dyg.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/myfieewifi/iptv/main/jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
+    {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/drpy2.min.js","ext":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/爱奇艺.js"},
+    {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/drpy2.min.js","ext":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/优酷.js"},
+    {"key":"直播转点播","name":"直播汇聚","type":3,"api":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/直播转点播.js","ext":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/%e7%9b%b4%e6%92%ad.js"},
+    {"key":"csp_XYQHiker_‍dyx","name":" 磁力4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/xb/dyg.json","jar":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
     {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
     {"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
