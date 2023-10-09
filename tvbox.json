@@ -1,5 +1,5 @@
 {
- "spider":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/jar/lib.jar",
+ "spider":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/jar/spider.jar",
  "wallpaper":"http://maoyingshi.cc/api.php",
  "lives":[{
    "name":"直播",
