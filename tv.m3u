@@ -1,115 +1,115 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-http://tv.cloudhs.cn/?id=cctv1
+http://jdx.x3322.net:8082/tv?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
-http://tv.cloudhs.cn/?id=cctv2
+http://jdx.x3322.net:8082/tv?id=cctv2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
-http://tv.cloudhs.cn/?id=cctv3
+http://jdx.x3322.net:8082/tv?id=cctv3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
-http://tv.cloudhs.cn/?id=cctv4
+http://jdx.x3322.net:8082/tv?id=cctv4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
-http://tv.cloudhs.cn/?id=cctv5
+http://jdx.x3322.net:8082/tv?id=cctv5
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://tv.cloudhs.cn/?id=cctv5p
+http://jdx.x3322.net:8082/tv?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
-http://tv.cloudhs.cn/?id=cctv6
+http://jdx.x3322.net:8082/tv?id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
-http://tv.cloudhs.cn/?id=cctv7
+http://jdx.x3322.net:8082/tv?id=cctv7
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
-http://tv.cloudhs.cn/?id=cctv8
+http://jdx.x3322.net:8082/tv?id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
-http://tv.cloudhs.cn/?id=cctv9
+http://jdx.x3322.net:8082/tv?id=cctv9
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
-http://tv.cloudhs.cn/?id=cctv10
+http://jdx.x3322.net:8082/tv?id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
-http://tv.cloudhs.cn/?id=cctv11
+http://jdx.x3322.net:8082/tv?id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
-http://tv.cloudhs.cn/?id=cctv12
+http://jdx.x3322.net:8082/tv?id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
-http://tv.cloudhs.cn/?id=cctv13
+http://jdx.x3322.net:8082/tv?id=cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
-http://tv.cloudhs.cn/?id=cctv14
+http://jdx.x3322.net:8082/tv?id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
-http://tv.cloudhs.cn/?id=cctv15
+http://jdx.x3322.net:8082/tv?id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16
-http://tv.cloudhs.cn/?id=cctv16
+http://jdx.x3322.net:8082/tv?id=cctv16
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 4K
-http://tv.cloudhs.cn/?id=cctv164k
+http://jdx.x3322.net:8082/tv?id=cctv164k
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
-http://tv.cloudhs.cn/?id=cctv17
+http://jdx.x3322.net:8082/tv?id=cctv17
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
-http://tv.cloudhs.cn/?id=cctv4k
+http://jdx.x3322.net:8082/tv?id=cctv4k
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
-http://tv.cloudhs.cn/?id=cgtn
+http://jdx.x3322.net:8082/tv?id=cgtn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-http://tv.cloudhs.cn/?id=bjws
+http://jdx.x3322.net:8082/tv?id=bjws
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
-http://tv.cloudhs.cn/?id=dfws
+http://jdx.x3322.net:8082/tv?id=dfws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
-http://tv.cloudhs.cn/?id=tjws
+http://jdx.x3322.net:8082/tv?id=tjws
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://tv.cloudhs.cn/?id=cqws
+http://jdx.x3322.net:8082/tv?id=cqws
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://tv.cloudhs.cn/?id=hljws
+http://jdx.x3322.net:8082/tv?id=hljws
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://tv.cloudhs.cn/?id=jlws
+http://jdx.x3322.net:8082/tv?id=jlws
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://tv.cloudhs.cn/?id=lnws
+http://jdx.x3322.net:8082/tv?id=lnws
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://tv.cloudhs.cn/?id=nmws
+http://jdx.x3322.net:8082/tv?id=nmws
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://tv.cloudhs.cn/?id=nxws
+http://jdx.x3322.net:8082/tv?id=nxws
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://tv.cloudhs.cn/?id=gsws
+http://jdx.x3322.net:8082/tv?id=gsws
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
-http://tv.cloudhs.cn/?id=qhws
+http://jdx.x3322.net:8082/tv?id=qhws
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://tv.cloudhs.cn/?id=sxws
+http://jdx.x3322.net:8082/tv?id=sxws
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
-http://tv.cloudhs.cn/?id=hbws
+http://jdx.x3322.net:8082/tv?id=hbws
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
-http://tv.cloudhs.cn/?id=sxiws
+http://jdx.x3322.net:8082/tv?id=sxiws
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
-http://tv.cloudhs.cn/?id=sdws
+http://jdx.x3322.net:8082/tv?id=sdws
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://tv.cloudhs.cn/?id=ahws
+http://jdx.x3322.net:8082/tv?id=ahws
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
-http://tv.cloudhs.cn/?id=hnws
+http://jdx.x3322.net:8082/tv?id=hnws
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://tv.cloudhs.cn/?id=hubws
+http://jdx.x3322.net:8082/tv?id=hubws
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://tv.cloudhs.cn/?id=hunws
+http://jdx.x3322.net:8082/tv?id=hunws
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
-http://tv.cloudhs.cn/?id=jxws
+http://jdx.x3322.net:8082/tv?id=jxws
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://tv.cloudhs.cn/?id=jsws
+http://jdx.x3322.net:8082/tv?id=jsws
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://tv.cloudhs.cn/?id=zjws
+http://jdx.x3322.net:8082/tv?id=zjws
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
-http://tv.cloudhs.cn/?id=dnws
+http://jdx.x3322.net:8082/tv?id=dnws
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
-http://tv.cloudhs.cn/?id=xmws
+http://jdx.x3322.net:8082/tv?id=xmws
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-http://tv.cloudhs.cn/?id=gdws
+http://jdx.x3322.net:8082/tv?id=gdws
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://tv.cloudhs.cn/?id=szws
+http://jdx.x3322.net:8082/tv?id=szws
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
-http://tv.cloudhs.cn/?id=gxws
+http://jdx.x3322.net:8082/tv?id=gxws
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
-http://tv.cloudhs.cn/?id=ynws
+http://jdx.x3322.net:8082/tv?id=ynws
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://tv.cloudhs.cn/?id=gzws
+http://jdx.x3322.net:8082/tv?id=gzws
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
-http://tv.cloudhs.cn/?id=scws
+http://jdx.x3322.net:8082/tv?id=scws
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
-http://tv.cloudhs.cn/?id=kbws
+http://jdx.x3322.net:8082/tv?id=kbws
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://tv.cloudhs.cn/?id=xjws
+http://jdx.x3322.net:8082/tv?id=xjws
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://tv.cloudhs.cn/?id=btws
+http://jdx.x3322.net:8082/tv?id=btws
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://tv.cloudhs.cn/?id=xzws
+http://jdx.x3322.net:8082/tv?id=xzws
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
-http://tv.cloudhs.cn/?id=hinws
+http://jdx.x3322.net:8082/tv?id=hinws
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://tv.cloudhs.cn/?id=ssws
+http://jdx.x3322.net:8082/tv?id=ssws
