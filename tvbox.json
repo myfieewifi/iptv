@@ -4,7 +4,7 @@
  "lives":[{
    "name":"直播",
    "type":0,
-   "url":"https://fanmingming.com/txt?url=https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+   "url":"https://fanmingming.com/txt?url=http://live.fanmingming.com/tv/m3u/global.m3u",
    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
    "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
