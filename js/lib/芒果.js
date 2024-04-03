@@ -2,7 +2,7 @@ var rule = {
     title:'芒果',
     host:'https://pianku.api.%6d%67%74%76.com',
     homeUrl:'',
-    searchUrl:'https://mobileso.bz.%6d%67%74%76.com/pc/search/v1?q=**&pn=fypage&pc=10',
+    searchUrl:'https://mobileso.bz.mgtv.com/pc/search/v1?allowedRC=1&src=mgtv&q=**&pn=1&pc=10&uid=&corr=1&_support=10000000',
     detailUrl:'https://pcweb.api.mgtv.com/episode/list?page=1&size=50&video_id=fyid',
     searchable:2,
     quickSearch:0,

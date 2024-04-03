@@ -43,7 +43,7 @@
     {
      "name":"线路1",
      "type":1,
-     "url":"https://json.vipjx.cnow.eu.org/?url="
+     "url":"http://119.91.123.253:2345/Api/yun.php?url="
     },
    {
      "name":"线路2",
