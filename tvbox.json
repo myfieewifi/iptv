@@ -11,7 +11,6 @@
 
  "sites":[
     {"key":"js豆瓣1","name":"豆瓣","type":3,"api":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/drpy2.min.js","ext":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/豆瓣.js","searchable":0,"quickSearch":0,"filterable":0},
-    {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
     {"key":"drpy_js_腾云驾雾","name":"企鹅","type":3,"api":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/drpy2.min.js","ext":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/企鹅.js"},
     {"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/lib/drpy2.min.js","ext":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/js/芒果.js"},
