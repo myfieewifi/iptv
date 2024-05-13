@@ -1,10 +1,10 @@
 {
- "spider":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/jar/fan.jar",
+ "spider":"http://ghproxy.net/raw.githubusercontent.com/myfieewifi/iptv/main/jar/xiang.jar",
  "wallpaper":"http://maoyingshi.cc/api.php",
  "lives":[{
    "name":"直播",
    "type":0,
-   "url":"http://124.223.177.85:88/svip/直播挺快.txt",
+   "url":"https://ghproxy.net/raw.githubusercontent.com/Yoursmile77/TVBox/main/live.txt",
    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
    "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
