@@ -1,5 +1,5 @@
 var rule = {
-    title:'爱奇艺',
+    title:'奇异',
     host:'https://www.iqiyi.com',
     homeUrl:'',
     // detailUrl:'https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=fyid&size=2000&page=1',

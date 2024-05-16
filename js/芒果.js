@@ -1,5 +1,5 @@
 var rule = {
-    title:'百忙无果',
+    title:'芒果',
     host:'https://pianku.api.%6d%67%74%76.com',
     homeUrl:'',
     searchUrl:'https://mobileso.bz.%6d%67%74%76.com/pc/search/v1?q=**&pn=fypage&pc=10',
