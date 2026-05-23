@@ -6,7 +6,7 @@
 { "url": "https://9280.kstore.vip/newwex.json", "name": "王二小" },
 { "url": "http://ok213.top/ok", "name": "OK" },
 { "url": "https://9877.kstore.space/AnotherD/api.json", "name": "潇洒" },
-{ "url": "https://6800.kstore.vip/fish.json", "name": "摸鱼儿" },
+{ "url": "http://我不是.摸鱼儿.top", "name": "摸鱼儿" },
 { "url": "http://hb.小虎斑.site:25252/仅供测试", "name": "小虎斑" },
 { "url": "https://xn--anna-wn6lw489o.v.nxog.top/m", "name": "欧歌" },
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风" },
