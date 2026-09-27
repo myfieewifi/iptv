@@ -1,0 +1,2 @@
+EPG-DIYP:https://tv.evorit.dpdns.org/epgphp/
+EPG-XML:https://cdn.jsdelivr.net/gh/kuke31/xmlgz@main/all.xml.gz
